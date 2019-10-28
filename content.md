@@ -1,4 +1,4 @@
-# SSI Fellowships (2020) application
+# SSI Fellowship application
 
 Will Furnass
 
@@ -11,24 +11,25 @@ Research Software Engineering team, University of Sheffield
 ---
 ### Who I am
 
-* RSE at University of Sheffield (3y); deputy lead of RSE team (~1y)
-* Previously: 
-    * Research Computing support at TUOS (0.5y)
-    * MSc, PhD and post-doc in Water Engineering (4.5y)
-    * Hydraulic engineer (0.5y)
-    * Film/TV industry IT engineer (3y)
-    * Computer Science BSc
+RSE at The University of Sheffield (TUOS) (3y)
+
+  - deputy lead of RSE team (~1y)
+
+Previously: 
+
+  -  Research Computing support (0.5y)
+  -  MSc, PhD and post-doc in Water Engineering (4.5y)
+  -  Hydraulic engineer (0.5y)
+  -  Film/TV industry IT engineer (3y)
+  -  Computer Science BSc
 
 ---
 ### What I do
 
-* Work on a variety of research software and infrastructure projects.
-    * Collaborate with groups across TUOS inc. central IT.
-* Code Clinic: free at point of use support.
-* Develop/deliver training and organise events:
-    * Certified Carpentries instructor
-    * Developed own high-performance Python workshop
-    * Previously talks chair at RSE conf 2018
+* Collaborative research software and infrastructure projects.
+* Code Clinic (surgery)
+* Develop/deliver training and organise events
+    * Carpentries; bespoke training; RSE conference
 * Engagement with regional/national communities: RSE Leaders, N8 PWG/CIR, HPC Champions
 * Dissemination: regularly write posts for TUOS RSE team blog.
 
@@ -45,10 +46,10 @@ Robin the researcher:
 **Goal: increase understanding of why, when and how of software packaging**
 
 * Lack of guidance around how to structure code as grows larger
+    * No separation of reusable components from analysis notebooks/scripts
     * Impedes application of testing, autogen'd docs, versioning
-* Believe packaging reusable components helps with these;
-    * results in cleaner, more readable literate programming; 
-    * separate linear analysis/narrative from implementation of core func
+* Packaging up reusable components should help;
+    * Separate linear analysis/narrative from implementation of core func
 
 ---
 ### Activity 1: RSE discussion workshop (0.5d)
