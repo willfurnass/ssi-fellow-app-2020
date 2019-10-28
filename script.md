@@ -1,44 +1,56 @@
 # Script
 
+Hi, I'm Will Furnass and I'd like to propose a SSI fellowship around improving researchers' and PIs' understanding of the value of software packaging.
+
 ## Who I am
 
-Hi, I'm Will Furnass and I work in and help run the Research Software Engineering team at the University of Sheffield.
+A little about me.
 
-The route to this point has not been particularly linear: 
-  * I've previously provided support to the users of our high-performance computer clusters
-  * Before that I worked and studied as a researcher in civil engineering for several years, during which I developed numerical models using Python
-  * This followed a change of career: I'd previously travelled round Europe providing IT support to the film and TV industry
-  * That was something I embarked on a couple of years after finishing my Computer Science undegrad degree.
-
----
-
-## What I do
+I work in and help run the Research Software Engineering team at the University of Sheffield.
 
 I mainly work on paid-for research software and infrastructure projects with groups across the University including central IT
 and support other team members in doing this.
-Projects are varied: they range from helping with software development, packaging and testing to developing services and infrastructure.
+Projects are really varied: 
+ - with some I develop software for researchers, 
+ - with others I help researchers develop software.  
+ - Some involve building sustainable ecosystems around existing software (packaging, testing, docs).  
+ - Others involve taking sustainable software and building services from it e.g. web services or HPC workflows.
 
-My team also runs a free Code Clinic (surgery), through which we've learned quite a bit about the common computing challenges/questions that researchers encounter.
+To complement this project work my team also runs a free Code Clinic (surgery), through which we've learned quite a bit about the common computing challenges/questions that researchers encounter.
 
 We also develop and deliver training.  For example:
 
   * I'm a certified Carpentries instructor and have also 
   * developed and delivered my own high-performance Python workshop
 
-During the last 3-4 years the team has established relationships with various regional, national and international bodies, which is useful for establishing collaborations and promoting activities:
+Another key part of what we do is engaging with various regional, national and international bodies, which is useful for sharing ideas, establishing collaborations and promoting activities:
 
   * we have two RSE Society committee members,
-  * I attend RSE Leaders and N8 meetings,
-  * me and others in the team have been involved with organising the UK RSE conference and
-  * several other team members are or have been SSI fellows
+  * we've been involved with organising several UK RSE conferences (I was talks chair in 2018)
+  * I'm part of the RSE Leaders Network, which discusses strategies for teaching and training, amongst other things.
+  * Regionally, I'm involved with the N8 Centre for Computationally Intensive Research, which organises and promotes training around best practices
+  * and finally I'd be a fool not to mention that several other team members are or have been SSI fellows
+
+---
+
+## Previously
+
+The route to becoming a research software engineer has not been particularly linear!
+
+I previously provided support to the users of our high-performance computer clusters.
+A big part of this was listening to researchers, finding solutions/suggestions that would address their needs and communicating those ideas in a meaningful way
+
+  * Before that I worked and studied as a researcher in civil engineering for several years, during which I developed numerical models using Python.  This made me aware of the needs of researchers and the research lifecycle.
+  * This followed a change of career: I'd previously travelled round Europe providing IT support to the film and TV industry.  Funnily enough, this was similar in several ways to my Research Computing support work!
+  * That was something I embarked on a couple of years after finishing my Computer Science undegrad degree.
 
 ---
 
 Now, on to my plans for the fellowship.
 
-Take a typical researcher.  Thanks to the Carpentries and other initiatives they now know the basics of version control and testing.  But
+So, take Robin, a typical researcher.  Thanks to the Carpentries and other initiatives they now know the basics of version control and testing, and they use both when working with Jupyter Notebooks and smaller scripts.  But
 
-  * How can they structure the software they develop to
+  * How can they structure the software they develop as it evolves to
     * make parts reusable and 
     * make version control and testing easier?
 
