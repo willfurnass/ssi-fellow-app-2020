@@ -6,13 +6,13 @@ class: center, middle, title-slide
 
 Will Furnass - SSI Fellowship application - 2020
 
-<img src="/images/profile.jpg" alt="Will Furnass profile" width="70%" />
+<img src="images/profile.jpg" alt="Will Furnass profile" width="70%" />
 
 [https://willfurnass.github.io/ssi-fellow-app-2020](willfurnass.github.io/ssi-fellow-app-2020)
 
 ---
 
-<img src="/images/rse-shef-twitter.png" alt="RSE Sheffield logo" style="float: right; width: 30%;" />
+<img src="images/rse-shef-twitter.png" alt="RSE Sheffield logo" style="float: right; width: 30%;" />
 
 ## Now: Research Software Engineer (RSE)
 
@@ -89,7 +89,7 @@ my_pkg1/         my_pkg2/        analysis6/
 └── deps/        └── deps/       
 
 ---
-<img src="/images/brainstorm.jpg" alt="Brainstorming" style="float: right; width: 30%;" />
+<img src="images/brainstorm.jpg" alt="Brainstorming" style="float: right; width: 30%;" />
 
 ### Activity 1: RSE discussion workshop (0.5d)
 
@@ -111,8 +111,8 @@ Collaborations Workshop 2020?
 ---
 ### Activities 2 & 3: R & Python packaging workshops (1d each)
 
-<img src="/images/Rlogo.svg" alt="R logo" style="float: right; clear: right; width: 20%;" />
-<img src="/images/pypkg.png" alt="Python package" style="float: right; clear: right; width: 20%;" />
+<img src="images/Rlogo.svg" alt="R logo" style="float: right; clear: right; width: 20%;" />
+<img src="images/pypkg.png" alt="Python package" style="float: right; clear: right; width: 20%;" />
 
 * Motivation for creating packages
 * How and when to migrate existing code to package
@@ -122,8 +122,8 @@ Collaborations Workshop 2020?
 
 --
 
-<img src="/images/pytest.png" alt="pytest logo" style="float: left; clear: left; width: 15%; padding-right: 2em;" />
-<img src="/images/sphinx.png" alt="sphinx logo" style="float: left; clear: left; width: 15%; padding-right: 2em;" />
+<img src="images/pytest.png" alt="pytest logo" style="float: left; clear: left; width: 15%; padding-right: 2em;" />
+<img src="images/sphinx.png" alt="sphinx logo" style="float: left; clear: left; width: 15%; padding-right: 2em;" />
 
 * Incorporating test suites and auto-generating docs (basics)
 * CI for testing and documentation (basics)
@@ -133,7 +133,7 @@ Collaborations Workshop 2020?
 ---
 ### Activity 4: auditing packages for PIs
 
-<img src="/images/checklist.jpg" alt="checklist" style="float: right; width: 50%;" />
+<img src="images/checklist.jpg" alt="checklist" style="float: right; width: 50%;" />
 
 * Motivation
 * Tools/concepts/language
@@ -156,6 +156,6 @@ Collaborations Workshop 2020?
 class: center, middle
 ## Thank you for your time
 
-<img src="/images/dog.gif" alt="RSE Sheffield logo" style="width: 50%;" />
+<img src="images/dog.gif" alt="RSE Sheffield logo" style="width: 50%;" />
 
 will@thearete.co.uk | @willfurnass
